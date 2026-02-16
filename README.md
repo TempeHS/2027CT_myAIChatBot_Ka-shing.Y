@@ -1,10 +1,9 @@
-# Project Title
+# Munkhbayar
 
 Simple overview of use/purpose.
 
 ## Description
-
-An in-depth paragraph about your project and overview of use.
+My chatbot will help new developers programmers by accelerating the learning process, identifying errors, explaining complex code and helping analyse error messages. It would be useful for beginners and could help programmers enhance their codes quality and their efficiency.
 
 ## Getting Started
 
@@ -37,9 +36,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Mr Jones
-ex. [@benpaddlejones](https://github.com/benpaddlejones)
-
+Ka-Shing Yang
+[@leaf700](https://github.com/leaf700)
 ## Version History
 
 * 0.2
@@ -50,7 +48,7 @@ ex. [@benpaddlejones](https://github.com/benpaddlejones)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [GNU GPL v3.0] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
