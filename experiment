@@ -1,0 +1,3 @@
+welcome_message = '
+<h1>Welcome! I'm Munkhbayar, your AI friend!</h1>
+print(welcome_message)
